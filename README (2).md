@@ -1,5 +1,5 @@
 # Task 6 — Excel Formulas & Functions Fundamentals
-**Veda Technology Internship | Data Analytics Track | Level 1, Day 6**
+**Veda Technology Internship | Data Analytics Track |  Day 6**
 
 ## Objective
 Build fluency with the everyday Excel formulas used in real analyst work — VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS, and text functions — by applying them to a live transactional dataset.
